@@ -1,0 +1,6 @@
+{
+  "name": "AI 内容引擎 Pro",
+  "description": "一个集实时新闻、趋势分析、AI驱动的内容创作（文本、图像、视频概念）、文章风格化及模拟发布于一体的综合性智能内容创作平台。利用 Gemini API 实现前沿的 AI 功能，并提供中英双语支持。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
